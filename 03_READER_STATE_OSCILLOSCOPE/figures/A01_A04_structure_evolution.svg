@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420">
+<rect width="1200" height="420" fill="white"/>
+<style>
+text{font-family:Arial,sans-serif;fill:#222}.h{font-size:24px;font-weight:700}.t{font-size:16px}.s{font-size:14px}.box{fill:#fafafa;stroke:#777;stroke-width:2}.line{fill:none;stroke:#555;stroke-width:3}
+</style>
+<text x="40" y="42" class="h">Reader-State Oscilloscope A01-A04</text>
+<text x="40" y="70" class="t">Derived schematic of display / diagnostic structure; not a performance ranking.</text>
+<rect x="40" y="110" width="245" height="220" rx="8" class="box"/>
+<text x="60" y="145" class="h">A01</text><text x="60" y="175" class="t">Dense multi-channel view</text>
+<path d="M65 270 L100 240 L135 255 L170 205 L205 225 L250 185" class="line"/>
+<text x="60" y="305" class="s">Early baseline</text>
+<rect x="330" y="110" width="245" height="220" rx="8" class="box"/>
+<text x="350" y="145" class="h">A02</text><text x="350" y="175" class="t">Measurement-oriented view</text>
+<rect x="355" y="200" width="195" height="35" fill="white" stroke="#aaa"/>
+<rect x="355" y="245" width="195" height="35" fill="white" stroke="#aaa"/>
+<text x="350" y="305" class="s">Closed-context baseline</text>
+<rect x="620" y="110" width="245" height="220" rx="8" class="box"/>
+<text x="640" y="145" class="h">A03</text><text x="640" y="175" class="t">Human-facing annotations</text>
+<path d="M645 265 L690 245 L735 205 L780 225 L825 190" class="line"/>
+<text x="640" y="305" class="s">Existing-project context</text>
+<rect x="910" y="110" width="245" height="220" rx="8" class="box"/>
+<text x="930" y="145" class="h">A04</text><text x="930" y="175" class="t">Integrated diagnostic view</text>
+<path d="M935 265 L980 250 L1025 205 L1070 230 L1115 195" class="line"/>
+<text x="930" y="305" class="s">Isolated re-instantiation</text>
+<text x="40" y="380" class="s">See provenance files for sampling, channel-set, and evidence limitations.</text>
+</svg>
